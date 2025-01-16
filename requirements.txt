@@ -1,0 +1,12 @@
+pandas
+requests
+requests-cache
+python-dateutil
+fastapi[standard]
+gql[all]
+matplotlib
+pymongo
+python-dotenv
+statsmodels
+ratelimit
+uvicorn
